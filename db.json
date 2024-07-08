@@ -1,0 +1,35 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "Nasiphi Ndzumo",
+        "email": "siphesihle@gmail.com",
+        "phone": "27607570454",
+        "position": "IT technician",
+        "employeeId": "EMP001",
+        "gender": "female",
+        "image": ""
+      },
+      {
+        "id": 2,
+        "name": "Zama Gavenda",
+        "email": "Zama@gmail.com",
+        "phone": "0836532567",
+        "position": "Support specialist",
+        "employeeId": "EMP002",
+        "gender": "male",
+        "image": ""
+      },
+      {
+        "id": 3,
+        "name": "Ntando Zulu",
+        "email": "Nandi@gmail.com",
+        "phone": "27607570454",
+        "position": "Web Dev",
+        "employeeId": "EMP003",
+        "gender": "female",
+        "image": ""
+      }
+    ]
+  }
+  
